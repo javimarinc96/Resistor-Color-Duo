@@ -1,3 +1,4 @@
+![resistor-color-duo](https://user-images.githubusercontent.com/44240533/226492422-10eb4ad4-b93d-4605-bb7e-a4fd6c8aebc6.svg)
 # Resistor Color Duo
 
 Welcome to Resistor Color Duo on Exercism's Java Track.
